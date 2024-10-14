@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='UTF-8'>
+<title>index</title>
+<style type = "text/css">
+body{text-align:left;background-color:WhiteSmoke;background-image: url("xi_bk.png");background-repeat: no-repeat}
+#sl {width:350px;margin-left:50px; margin-top:100px;}
+#tl {width:350px;margin-left:50px;}
+</style>
+</head>
+<body>
+<div id="sl">BLANK</div>
+<br>
+<div id="tl">BLANK</div>
+</body>
+</html>
