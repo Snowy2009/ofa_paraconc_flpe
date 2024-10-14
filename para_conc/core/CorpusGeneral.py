@@ -29,8 +29,6 @@ class Sent:
         self.zh_seg_count = 0
         self.en_sent_count = 0
         self.en_seg_count = 0
-        # self.zh_sent_length = 0 
-        # self.en_sent_length = 0 
         self.bi_sent_ratio = ""
         self.bi_seg_ratio = ""        
    
