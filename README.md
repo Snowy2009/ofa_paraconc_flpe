@@ -228,18 +228,18 @@ CHOOSE  OPTIONS
 点击主界面顶部菜单栏中的“帮助”，在其下拉菜单中可点击查看与本软件使用相关的帮助文档。 
 #### 搭建运行环境
 ##### 1. 第三方库列表
-• PySide6==6.1.3
-• PySide6-Addons==6.3.1
-• PySide6-Essentials==6.3.1
-• pydantic==2.6.0
-• pandas==1.5.3
-• Pillow==9.0.1
-• wordcloud==1.8.2.2
-• imageio==2.26.0
-• openai==1.7.0
-• python-dotenv==0.20.0
-• pywin32-ctypes==0.2.3
-• pyinstaller==6.10.0  
+PySide6==6.1.3
+PySide6-Addons==6.3.1
+PySide6-Essentials==6.3.1
+pydantic==2.6.0
+pandas==1.5.3
+Pillow==9.0.1
+wordcloud==1.8.2.2
+imageio==2.26.0
+openai==1.7.0
+python-dotenv==0.20.0
+pywin32-ctypes==0.2.3
+pyinstaller==6.10.0  
 ##### 2. 打包软件安装与程序打包
->>> pip install pyinstaller
->>> pyinstaller -F -w main.py
+pip install pyinstaller
+pyinstaller -F -w main.py
